@@ -1,3 +1,4 @@
+//This code is practiced while learning
 const defaultResult = 0;
 let currentResult = defaultResult;
 let name=2;
